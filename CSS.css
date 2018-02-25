@@ -1,0 +1,45 @@
+body {
+    background-color: blue;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+    text-align: center;
+    font-family: comic sans ms;
+    font-size: 20px;
+}
+    
+.p2 {
+    text-align: center;
+    font-family: comic sans ms;
+}
+    
+img {
+    width 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+footer {
+    color: white;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: red;
+    text-align: center;
+    font-weight: bold;
+    font-family: comic sans ms;
+    font-size: 16px;
+}
+    
+marquee {
+    color: white;
+    font-size: 50px;
+    font-family: comic sans ms;
+}
